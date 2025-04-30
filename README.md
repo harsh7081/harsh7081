@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Harsh kalra! 👋
+🚀 Aspiring Software Engineer | Cloud Computing Enthusiast | DevOps Learner
 
-<!--
-**harsh7081/harsh7081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a pre-final year B.Tech student specializing in Cloud Computing & Virtualization Technology at UPES, Dehradun. Passionate about building efficient, scalable solutions and diving into modern DevOps tools, I aim to bridge theory and real-world impact through continuous learning and hands-on experience.
 
-Here are some ideas to get you started:
+🌟 About Me
+🎓 B.Tech in Computer Science (2022-2026) | UPES, Dehradun | GPA: 7.50/10
+🏅 Certifications: AWS Academy Graduate AWS Academy Introduction to Cloud Semester 2, AWS Academy Graduate AWS Academy Cloud Architecting, AWS Skill Builder Cloud Practitioner Essentials
+💻 Tech Stack: Java, Python, JavaScript, HTML, CSS, ReactJS, AngularJS, Node.js
+🛠️ Tools & Platforms: Docker, Kubernetes, Jenkins, GitHub Actions, MySQL, Linux
+🌱 Currently exploring , Kubernetes orchestration, and DevOps pipelines
+🌐 Location: Patna, India
+🔥 Featured Projects
+🔁 Mentor Allocation System
+Automated mentee mentor allocation system basis on their interested field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Let's connect and collaborate on exciting tech projects! 🚀
+
